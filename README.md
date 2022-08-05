@@ -7,7 +7,7 @@
 ![Chat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIOU2021&theme=nord_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LIOU2021&theme=nord_dark&show_icons=true)
-![Haubar's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LIOU2021&theme=nord_dark&show_icons=true)
+![LIOU2021's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LIOU2021&theme=nord_dark&show_icons=true)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIOU2021&theme=nord_dark)
